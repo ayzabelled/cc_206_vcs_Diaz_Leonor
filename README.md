@@ -2,6 +2,6 @@
 ### Section: 
 BSCS 3A-AI
 ### Submitted by:
-Matthew David Montero
-Allana Yzabelle Diaz 
+#### Matthew David Montero
+#### Allana Yzabelle Diaz 
 ### ╰(*°▽°*)╯
