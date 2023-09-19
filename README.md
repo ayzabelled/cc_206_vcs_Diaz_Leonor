@@ -3,6 +3,6 @@
 #### BSCS 3A-AI
 ### Submitted by:
 #### Matthew David Montero 👨
-#### Allana Yzabelle Diaz 🐈
+#### Allana Yzabelle Diaz 🐈🐱😾😿🙀😸😹
 ## ╰(*°▽°*)╯
 
