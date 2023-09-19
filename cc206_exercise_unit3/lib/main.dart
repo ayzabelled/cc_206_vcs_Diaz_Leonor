@@ -1,3 +1,6 @@
+// Allana Yzabelle Diaz: "It do be like that sometimes"
+// Matthew David Montero: "The only true wisdom is in knowing you know nothing - Socrates"
+
 import 'package:flutter/material.dart';
 
 void main() {
