@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(cc_206_exercise_unit3 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "cc_206_exercise_unit3")
+=======
+project(cc206_exercise_unit3 LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "cc206_exercise_unit3")
+>>>>>>> git_branch_diaz
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

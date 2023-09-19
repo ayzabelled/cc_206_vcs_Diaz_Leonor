@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "cc_206_exercise_unit3",
     "short_name": "cc_206_exercise_unit3",
+=======
+    "name": "cc206_exercise_unit3",
+    "short_name": "cc206_exercise_unit3",
+>>>>>>> git_branch_diaz
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

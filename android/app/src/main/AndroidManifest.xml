@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="cc_206_exercise_unit3"
+=======
+        android:label="cc206_exercise_unit3"
+>>>>>>> git_branch_diaz
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
