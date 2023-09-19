@@ -5,7 +5,11 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
+<<<<<<< HEAD
 PRODUCT_NAME = cc_206_exercise_unit3
+=======
+PRODUCT_NAME = cc206_exercise_unit3
+>>>>>>> git_branch_diaz
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.example.cc206ExerciseUnit3

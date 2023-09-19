@@ -4,10 +4,17 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
+<<<<<<< HEAD
 set(BINARY_NAME "cc_206_exercise_unit3")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
 set(APPLICATION_ID "com.example.cc_206_exercise_unit3")
+=======
+set(BINARY_NAME "cc206_exercise_unit3")
+# The unique GTK application identifier for this application. See:
+# https://wiki.gnome.org/HowDoI/ChooseApplicationID
+set(APPLICATION_ID "com.example.cc206_exercise_unit3")
+>>>>>>> git_branch_diaz
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
